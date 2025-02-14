@@ -1,4 +1,3 @@
-```markdown
 # Heikin-Ashi & KDJ Indicator Analysis
 
 ## Overview
