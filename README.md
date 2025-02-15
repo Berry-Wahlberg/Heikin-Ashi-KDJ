@@ -1,5 +1,6 @@
 # Heikin-Ashi & KDJ Indicator Analysis
 [English](README.md) | [简体中文 Chinese](README_zh-CN.md) | [日本語 Japanese](README_JP.md)
+
 ## Overview
 This project processes stock OHLC (Open, High, Low, Close) data by the following steps:
 1. Converting standard OHLC data into Heikin-Ashi candlesticks.
@@ -49,7 +50,7 @@ python Chart.py
 | 2024-02-03 | 45.8 | 47.2 | 42.0 | -1     |
 
 ## Visualization
-The `heikin_ashi_kdj.py` script generates a plot with KDJ lines and marks buy/sell points. The `Chart.py` script generates a candlestick chart with buy/sell signals.
+The `heikin_ashi_kdj.py` script generates a plot with KDJ lines and marks buy/sell points. The `Chart.py` script generates a candlestick chart with buy/sell signals. Additionally, the `plot_trading_chart` function in the `Chart.py` script reads the `Output.csv` and `Data.csv` files, extracts buy/sell signals, and plots them on a candlestick chart. Buy signals are marked as green upward triangles, and sell signals are marked as red downward triangles.
 
 ## License
-This project is licensed under the MIT License.
+[LICENSE](LICENSE)
