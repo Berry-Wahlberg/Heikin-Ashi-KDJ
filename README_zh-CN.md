@@ -1,5 +1,5 @@
 # Heikin-Ashi & KDJ Indicator Analysis
-
+[English](README.md) | [简体中文 Chinese](README_zh-CN.md) | [日本語 Japanese](README_JP.md)
 ## Overview
 此项目用于处理股票的 OHLC（开盘价、最高价、最低价、收盘价）数据，具体步骤如下：
 1. 将标准的 OHLC 数据转换为 Heikin-Ashi 蜡烛图数据。

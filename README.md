@@ -1,5 +1,5 @@
 # Heikin-Ashi & KDJ Indicator Analysis
-
+[English](README.md) | [简体中文 Chinese](README_zh-CN.md) | [日本語 Japanese](README_JP.md)
 ## Overview
 This project processes stock OHLC (Open, High, Low, Close) data by the following steps:
 1. Converting standard OHLC data into Heikin-Ashi candlesticks.
